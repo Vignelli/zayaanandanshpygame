@@ -30,5 +30,5 @@ def func(func_):
 def foo():
     return "hello world"
 
-
-func(foo)
+# NEED SOME FIXING
+# func(foo)
